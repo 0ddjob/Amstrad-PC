@@ -1,5 +1,5 @@
-# Amstrad_PPC_XT_CF_Lite
-Internal CF interface for the Amstrad PPC512/640
+# Amstrad PPC XT CF Lite
+Internal CF interface for the Amstrad PPC512/640.<br>
 
 Replaces the internal modem board with a combination ISA interface & XT-IDE/Compact Flash interface.<br> 
 
@@ -21,5 +21,5 @@ _(there are others but irrelevant for our purposes)_<br>
 [4] Technically the PPC should be powered by the "expansion unit" and not the other way around ... don't tell anyone<br>
 
 Currently untested ...<br><br>
-![Amstrad_PPC_Internal_Modem](Amstrad_PPC_Internal_modem.jpg)
+![Amstrad_PPC_Internal_Modem](Amstrad_PPC_Internal_modem.png)
 ![Amstrad_PPC_Internal_CF_Lite](Amstrad_PPC_Internal_PCB.png)
