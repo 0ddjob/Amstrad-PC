@@ -1,0 +1,4 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+133.411235,-87.268335,0.0,top,J1,,,112-036-113R001_Centronics_36way,External Floppy,tht
+113.30335,-110.28665,90.0,top,J3,,,PinHeader_2x17_P2.54mm_Vertical,"3.5"" Floppy",tht
+153.97335,-126.76665,180.0,top,J4,,,5.25_ Floppy Edge Connector,"5.25"" Floppy",tht
